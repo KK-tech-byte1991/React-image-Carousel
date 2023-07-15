@@ -1,0 +1,10 @@
+.imgBox {
+  height: 250px;
+  width: 400px;
+}
+.backButton {
+  margin-right: -50px;
+}
+.nextButton {
+  margin-left: -35px;
+}
